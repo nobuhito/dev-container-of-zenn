@@ -1,0 +1,6 @@
+[submodule "zenn-private"]
+	path = zenn-private
+	url = https://github.com/nobuhito/zenn-private.git
+[submodule "zenn-public"]
+	path = zenn-public
+	url = https://github.com/nobuhito/zenn-public.git

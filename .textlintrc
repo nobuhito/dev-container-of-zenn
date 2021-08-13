@@ -8,7 +8,14 @@
     },
     "preset-ja-technical-writing": true,
     "@proofdict/proofdict": {
-      "dictURL": "https://azu.github.io/proof-dictionary/"
+      "dicts": [
+        {
+          "dictURL": "https://nobuhito.github.io/proof-dictionary/"
+        },
+        {
+          "dictURL": "https://azu.github.io/proof-dictionary/"
+        }
+      ]
     }
   }
 }

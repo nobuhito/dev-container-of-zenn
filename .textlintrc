@@ -6,7 +6,13 @@
         "space": "always"
       }
     },
-    "preset-ja-technical-writing": true,
+    "preset-ja-technical-writing": {
+      "ja-no-mixed-period": {
+        "allowPeriodMarks": [
+          ":"
+        ]
+      }
+    },
     "@proofdict/proofdict": {
       "dicts": [
         {

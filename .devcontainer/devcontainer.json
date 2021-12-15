@@ -13,13 +13,14 @@
 	"settings": {
 		"editor.formatOnSave": true,
 		"textlint.autoFixOnSave": true,
-		"textlint.run": "onType",
+		"textlint.run": "onType"
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"taichi.vscode-textlint",
-		"compulim.vscode-clock"
+		"compulim.vscode-clock",
+		"sakamoto66.vscode-paste-image"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
